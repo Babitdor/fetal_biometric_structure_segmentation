@@ -40,3 +40,7 @@ Adjustable depth and number of filters
 # Optional:
 
 Support for deeper U-Net variants (e.g., Attention U-Net, Residual U-Net)
+
+# Results
+![Screenshot 2025-04-26 103005](https://github.com/user-attachments/assets/32d42b69-10d7-424f-882f-65d760aa5320)
+
